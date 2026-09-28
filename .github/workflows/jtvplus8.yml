@@ -48,8 +48,8 @@ jobs:
 
       - name: Download and Update Playlist (hotstarbackup)
         run: |
-          curl -sS -L -o hotstarbackup.m3u "https://premiumplugx.com/htt/hot.php?playlist=1"
-          echo "✅ hotstarbackup.m3u downloaded successfully"
+          curl -sS -L -o hotstar2.m3u "https://premiumplugx.com/htt/hot.php?playlist=1"
+          echo "✅ hotstar2.m3u downloaded successfully"
           echo "📝 File size: $(wc -c < hotstar2.m3u) bytes"
 
       - name: Download and Update Playlist (mixiptv2)
