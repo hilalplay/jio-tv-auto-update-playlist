@@ -50,17 +50,23 @@ jobs:
         run: |
           curl -sS -L -o hotstarbackup.m3u "https://premiumplugx.com/htt/hot.php?playlist=1"
           echo "✅ hotstarbackup.m3u downloaded successfully"
-          echo "📝 File size: $(wc -c < hotstarbackup.m3u) bytes"
+          echo "📝 File size: $(wc -c < hotstar2.m3u) bytes"
+
+      - name: Download and Update Playlist (mixiptv2)
+        run: |
+          curl -sS -L -o mixiptv2.m3u "http://jiov-v1.zonmp.net/"
+          echo "✅ mixiptv2.m3u downloaded successfully"
+          echo "📝 File size: $(wc -c < mixiptv2.m3u) bytes"
       
       - name: Check for Changes
         id: check_changes
         run: |
-          git add jtvplus8.m3u jtvplus9.m3u hotstarbackup.m3u
+          git add jtvplus8.m3u jtvplus9.m3u hotstarbackup.m3u mixiptv2.m3u
           
           if git diff --cached --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
             echo "⏭️  No changes detected"
-            git reset HEAD jtvplus8.m3u jtvplus9.m3u hotstarbackup.m3u
+            git reset HEAD jtvplus8.m3u jtvplus9.m3u hotstarbackup.m3u mixiptv2.m3u
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "✏️  Changes detected"
@@ -92,7 +98,7 @@ jobs:
       
       - name: Verify Files
         run: |
-          for FILE in jtvplus8.m3u jtvplus9.m3u hotstarbackup.m3u; do
+          for FILE in jtvplus8.m3u jtvplus9.m3u hotstarbackup.m3u mixiptv2.m3u; do
             if [ -f "$FILE" ]; then
               echo "✅ File $FILE exists"
               ls -lh "$FILE"
@@ -110,6 +116,6 @@ jobs:
         run: |
           echo "📊 Workflow Summary:"
           echo "  Repository: https://github.com/sportlive18/jio-tv-auto-update-playlist"
-          echo "  Files: jtvplus8.m3u, jtvplus9.m3u, hotstarbackup.m3u"
+          echo "  Files: jtvplus8.m3u, jtvplus9.m3u, hotstarbackup.m3u, mixiptv2.m3u"
           echo "  Time: $(date +'%Y-%m-%d %H:%M:%S IST')"
           echo "  Status: ✅ Complete"
