@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "12:18:03 AM 29-09-2026",
-    "generated_at": "2026-09-28 18:55:08",
+    "source_last_updated": "12:38:14 AM 29-09-2026",
+    "generated_at": "2026-09-28 19:10:11",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -270,6 +270,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249812,
+            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
+            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+            "team_1": "Montreal Royal Tigers",
+            "team_2": "Toronto Sixers",
+            "status": "UPCOMING",
+            "startTime": "07:15:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248550,
             "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
@@ -284,15 +297,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249812,
-            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
-            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
+            "match_id": 4249813,
+            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Vancouver Anchors",
             "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "Toronto Sixers",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
             "status": "UPCOMING",
-            "startTime": "07:15:00 AM 30-09-2026",
+            "startTime": "11:15:00 AM 30-09-2026",
             "user-agent": null
         },
         {
@@ -306,19 +319,6 @@
             "team_2": "Chakradharpur Royals",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249813,
-            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Vancouver Anchors",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Vancouver Anchors",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 AM 30-09-2026",
             "user-agent": null
         },
         {
@@ -806,6 +806,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249812,
+            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
+            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+            "team_1": "Montreal Royal Tigers",
+            "team_2": "Toronto Sixers",
+            "status": "UPCOMING",
+            "startTime": "07:15:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248550,
             "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
@@ -820,15 +833,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249812,
-            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
-            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
+            "match_id": 4249813,
+            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
+            "match_name": "Mississauga Masters vs Vancouver Anchors",
             "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "Toronto Sixers",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+            "team_1": "Mississauga Masters",
+            "team_2": "Vancouver Anchors",
             "status": "UPCOMING",
-            "startTime": "07:15:00 AM 30-09-2026",
+            "startTime": "11:15:00 AM 30-09-2026",
             "user-agent": null
         },
         {
@@ -842,19 +855,6 @@
             "team_2": "Chakradharpur Royals",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249813,
-            "title": "Mississauga Masters vs Vancouver Anchors (Canada Super 60, 2026)",
-            "match_name": "Mississauga Masters vs Vancouver Anchors",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-            "team_1": "Mississauga Masters",
-            "team_2": "Vancouver Anchors",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 AM 30-09-2026",
             "user-agent": null
         },
         {
