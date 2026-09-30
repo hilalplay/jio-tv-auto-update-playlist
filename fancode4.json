@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:43:05 PM 30-09-2026",
-    "generated_at": "2026-09-30 13:15:35",
+    "source_last_updated": "06:53:14 PM 30-09-2026",
+    "generated_at": "2026-09-30 13:30:28",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 4,
-    "upcoming_matches_count": 36,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -50,6 +50,25 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": "4249587_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "status": "LIVE",
+            "startTime": "07:00:00 PM 30-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249587_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
             "match_id": "4250065_ENG",
             "title": "Emirates D10, 2026 [English]",
             "match_name": "Dubai vs Abu Dhabi [English]",
@@ -85,19 +104,6 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248551_ENG/english.m3u8"
                 }
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249587,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "07:00:00 PM 30-09-2026",
-            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -596,6 +602,25 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": "4249587_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "status": "LIVE",
+            "startTime": "07:00:00 PM 30-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249587_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
             "match_id": "4250065_ENG",
             "title": "Emirates D10, 2026 [English]",
             "match_name": "Dubai vs Abu Dhabi [English]",
@@ -634,19 +659,6 @@
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249587,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "07:00:00 PM 30-09-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249814,
