@@ -1,63 +1,53 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (9 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 30 September 2026 at 4:28:13 pm
+#DATE:- Wednesday, 30 September 2026 at 6:42:19 pm
 
-#EXTINF:-1 tvg-id="4249300" tvg-name="Faridabad Firebirds Vs Delhi Dynamos @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-App.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Faridabad Firebirds Vs Delhi Dynamos
-https://dai-fancode.pages.dev/mumbai/4249300_english_hls_10d1e7ac584062_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249296" tvg-name="Ghaziabad Giants Vs Yamuna Warriors @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-App.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Ghaziabad Giants Vs Yamuna Warriors
+https://dai-fancode.pages.dev/mumbai/4249296_english_hls_83190a6f7d42616_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250042" tvg-name="Kolhan King Vs Manoharpur Lions @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kolhan King Vs Manoharpur Lions
-https://dai-fancode.pages.dev/mumbai/4250042_english_hls_66e39a398b76981_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249780" tvg-name="Australia Vs South Africa @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Australia Vs South Africa
+https://dai-fancode.pages.dev/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250064" tvg-name="Emirates Blues Vs Fujairah @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250064_53103_EMB_FUJ_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Emirates Blues Vs Fujairah
-https://dai-fancode.pages.dev/mumbai/4250064_english_hls_6f4f0ba29c90843_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249524" tvg-name="Punjab Fc Vs East Bengal Fc @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MM.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Punjab Fc Vs East Bengal Fc
-https://dai-fancode.pages.dev/mumbai/4249524_english_hls_85fa4a0a6b84266_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248565" tvg-name="Kinoshita Group Show Court @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kinoshita Group Show Court
-https://dai-fancode.pages.dev/mumbai/4248565_english_hls_7a1fef517154589_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248572" tvg-name="Day 1   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1   World Feed
-https://dai-fancode.pages.dev/mumbai/4248572_english_hls_04053f73dc96308_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250065" tvg-name="Dubai Vs Abu Dhabi @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250065_53103_ABD_DUB_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Dubai Vs Abu Dhabi
+https://dai-fancode.pages.dev/mumbai/4250065_english_hls_6c5ec2ffc559386_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248551" tvg-name="Day 1   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1   World Feed
 https://dai-fancode.pages.dev/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248558" tvg-name="Lotus Court @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Lotus Court
-https://dai-fancode.pages.dev/mumbai/4248558_english_hls_843d472f0e50815_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#===== SonyLIV | Sportlink (1 channels) =====
+#EXTINF:-1 tvg-name="Day 12 - 30 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLIV | Sportlink", Day 12 - 30 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790817092~acl=/*~id=42288143607669967051967001494959~hmac=176fb3b2ba408353f3145aa5fac42b445634097d9d499545f73d991bcc602484
 
-#===== SonyLIV | Sportlink (5 channels) =====
-#EXTINF:-1 tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Republic Of Korea - Hockey - 30 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790809197~acl=/*~id=14521056763587806988806749228557~hmac=e6d2768e9b12a3cbb45f88259e1d0930b28c2a9c721ef155c3c76de45182b5b7
-
-#EXTINF:-1 tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Republic Of Korea - Hockey - 30 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790809197~acl=/*~id=14521056763587806988806749228557~hmac=e6d2768e9b12a3cbb45f88259e1d0930b28c2a9c721ef155c3c76de45182b5b7
-
-#EXTINF:-1 tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Republic Of Korea - Hockey - 30 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790809197~acl=/*~id=14521056763587806988806749228557~hmac=e6d2768e9b12a3cbb45f88259e1d0930b28c2a9c721ef155c3c76de45182b5b7
-
-#EXTINF:-1 tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Republic Of Korea - Hockey - 30 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790809197~acl=/*~id=14521056763587806988806749228557~hmac=e6d2768e9b12a3cbb45f88259e1d0930b28c2a9c721ef155c3c76de45182b5b7
-
-#EXTINF:-1 tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Republic Of Korea - Hockey - 30 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790809197~acl=/*~id=14521056763587806988806749228557~hmac=e6d2768e9b12a3cbb45f88259e1d0930b28c2a9c721ef155c3c76de45182b5b7
-
-#===== Willow | Sportlink (1 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 PM 30-09-2026
+#LAST_UPDATE:07:02 PM 30-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:0
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
-#===== Prime Video | Sportlink (5 channels) =====
+#EXTINF:-1 tvg-id="B0HK6D5LN2" tvg-name="India vs. West Indies @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5ee746b-448e-45e3-a426-8ea1b28dc39a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India vs. West Indies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ce45f6a1c4ff0cca79f1fcb2f0161d5:d6dba1c59cc9c34a53deb95d47a6ae99
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lz6ipnjrm8/out/v1/82ed38bdd2b3474fa5306ff07487e2a0/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HJX77Q8W" tvg-name="South Africa vs. Australia @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.52c7a477-3e64-44b7-bfd8-ce265d3e38a7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",South Africa vs. Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd
+
+#===== Prime Video | Sportlink (4 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:04:32 PM 30-09-2026
+#LAST_UPDATE:07:02 PM 30-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:3
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
@@ -65,28 +55,21 @@ https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/KAN/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HHG3WLM4" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.af7ee062-a32b-4951-ab7c-8db89aa3e864/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round
+#EXTINF:-1 tvg-id="B0H7K8ZT2G" tvg-name="The Morning Drive @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e05e0ac-c7e4-4da6-abbe-0b4d40b0081b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HHH8CW1C" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e0251589-de45-4144-8636-a7bc2281ebca/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HKFTGN17" tvg-name="Football Men - Semi-Final @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85dd5f89-ba93-425f-a3ca-f46f66402354/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Football Men - Semi-Final
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HHVSD6YN" tvg-name="Diving 05 Men @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8dd4c4bb-e0af-4f18-996a-679491d38525/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Diving 05 Men
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #===== AXS | Sportlink (8 channels) =====
 #name: Axsports Auto Update Playlist
