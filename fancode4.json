@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:06:38 PM 01-10-2026",
-    "generated_at": "2026-10-01 12:50:10",
+    "source_last_updated": "06:26:51 PM 01-10-2026",
+    "generated_at": "2026-10-01 13:00:13",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -308,19 +308,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249701,
-            "title": "Featured Group - Day 1 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "Featured Group - Day 1",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "Featured Group - Day 1",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 01-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250074,
             "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
@@ -331,6 +318,19 @@
             "team_2": "Dubai",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 02-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249701,
+            "title": "Featured Group - Day 1 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
+            "match_name": "Featured Group - Day 1",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "Featured Group - Day 1",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 01-10-2026",
             "user-agent": null
         },
         {
@@ -856,19 +856,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249701,
-            "title": "Featured Group - Day 1 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
-            "match_name": "Featured Group - Day 1",
-            "event_name": "Bank of Utah Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
-            "team_1": "Featured Group - Day 1",
-            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 01-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250074,
             "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
@@ -879,6 +866,19 @@
             "team_2": "Dubai",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 02-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249701,
+            "title": "Featured Group - Day 1 vs Black Desert Resort Golf Course - Ivins, Utah (Bank of Utah Championship 2026)",
+            "match_name": "Featured Group - Day 1",
+            "event_name": "Bank of Utah Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+            "team_1": "Featured Group - Day 1",
+            "team_2": "Black Desert Resort Golf Course - Ivins, Utah",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 01-10-2026",
             "user-agent": null
         },
         {
