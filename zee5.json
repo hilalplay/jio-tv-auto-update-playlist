@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:15:05 PM 30-09-2026",
+  "last_updated": "06:00:03 PM 01-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -15,12 +15,11 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [],
-  "upcoming": {
-    "0-1-6z51083982": {
-      "id": "0-1-6z51083982",
-      "title": "Super League Kerala | Season 3",
-      "description": "Watch World-class football. Super League Kerala live matches every evening 7.30 PM",
+  "matches": [
+    {
+      "id": "0-1-6z51083190",
+      "title": "DW Vs HE",
+      "description": "Watch Dehradun Warriors Vs Haridwar Elmas LIVE and Exclusive only on ZEE5. UPL'26",
       "genres": [
         {
           "id": "Sports",
@@ -29,43 +28,28 @@
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
       "businessType": "free",
-      "releaseDate": "Friday, 25 September 2026",
+      "releaseDate": "Thursday, 1 October 2026",
       "languages": [
-        "en"
+        "hindi"
       ],
       "audioLanguages": [
-        "en"
+        "hi"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/list/skl1920x1080listd2186857ccf64ae8bb4d0ef9f0a14383.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/cover/skl1920x770covere81d94c348b14db2ab908811187e4ad5.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/appCover/skl1920x1080appcover26b2c02ae60b42d59c97b7b4e6c78fb2.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
-      }
-    },
-    "0-1-6z51087843": {
-      "id": "0-1-6z51087843",
-      "title": "The Final Chapter | Messi One Last Time",
-      "description": "Messi’s legacy nears its final chapter. Watch Argentina vs Benin live on Oct 7, 4:30 AM on Zee 5.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083190/list/1920x1080listlive3bd455ec5e864bea852679a7480f6ca7.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083190/cover/1920x770live99b5268853e24ee4a1885758e9afd0c5.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083190/appCover/1920x1080appcoverlivef4e263e3696040008e2d130f784f00d5.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083190/verticalBanner/845x1080live3a8dba488df64d90bbff9c8a2ee25745.jpg"
+      },
+      "playback": {
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Friday 2nd of October 2026 02:30:11 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master_360p.m3u8?hdntl=exp=1790931611~acl=%2f*~id=0-1-6z51083190_Z5X_6688ef8fe5899f203e098063dce34f25b07cbe49de4f0a55664fad6f69fda0f4~data=hdntl,2109037,UPL-M35,ENG,70cad4cb6a23ff290fe8703165ad929422d6818dc2db832c8bfdb75dff82c7ff~hmac=156dc3e14f90c92c7884a40751df1b655aa0c770ddc13f53bdc1a59f1f74114b\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master_480p.m3u8?hdntl=exp=1790931611~acl=%2f*~id=0-1-6z51083190_Z5X_6688ef8fe5899f203e098063dce34f25b07cbe49de4f0a55664fad6f69fda0f4~data=hdntl,2109037,UPL-M35,ENG,70cad4cb6a23ff290fe8703165ad929422d6818dc2db832c8bfdb75dff82c7ff~hmac=156dc3e14f90c92c7884a40751df1b655aa0c770ddc13f53bdc1a59f1f74114b\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master_576P.m3u8?hdntl=exp=1790931611~acl=%2f*~id=0-1-6z51083190_Z5X_6688ef8fe5899f203e098063dce34f25b07cbe49de4f0a55664fad6f69fda0f4~data=hdntl,2109037,UPL-M35,ENG,70cad4cb6a23ff290fe8703165ad929422d6818dc2db832c8bfdb75dff82c7ff~hmac=156dc3e14f90c92c7884a40751df1b655aa0c770ddc13f53bdc1a59f1f74114b\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master_720p.m3u8?hdntl=exp=1790931611~acl=%2f*~id=0-1-6z51083190_Z5X_6688ef8fe5899f203e098063dce34f25b07cbe49de4f0a55664fad6f69fda0f4~data=hdntl,2109037,UPL-M35,ENG,70cad4cb6a23ff290fe8703165ad929422d6818dc2db832c8bfdb75dff82c7ff~hmac=156dc3e14f90c92c7884a40751df1b655aa0c770ddc13f53bdc1a59f1f74114b\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master_1080p.m3u8?hdntl=exp=1790931611~acl=%2f*~id=0-1-6z51083190_Z5X_6688ef8fe5899f203e098063dce34f25b07cbe49de4f0a55664fad6f69fda0f4~data=hdntl,2109037,UPL-M35,ENG,70cad4cb6a23ff290fe8703165ad929422d6818dc2db832c8bfdb75dff82c7ff~hmac=156dc3e14f90c92c7884a40751df1b655aa0c770ddc13f53bdc1a59f1f74114b\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/UPL-M35_ENG/master_aud.m3u8?hdntl=exp=1790931611~acl=%2f*~id=0-1-6z51083190_Z5X_6688ef8fe5899f203e098063dce34f25b07cbe49de4f0a55664fad6f69fda0f4~data=hdntl,2109037,UPL-M35,ENG,70cad4cb6a23ff290fe8703165ad929422d6818dc2db832c8bfdb75dff82c7ff~hmac=156dc3e14f90c92c7884a40751df1b655aa0c770ddc13f53bdc1a59f1f74114b\""
         }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Wednesday, 7 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51087843/list/000000000163c506ed09905404f8be3d26fd08bff60.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  ],
+  "upcoming": null
 }
