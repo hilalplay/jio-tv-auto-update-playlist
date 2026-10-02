@@ -11,7 +11,7 @@ OUTPUT_FILE  = "Star.m3u"
 # Only keep channels whose name matches this pattern (case-insensitive)
 NAME_FILTER = re.compile(r"star\s*sports", re.IGNORECASE)
 
-USER_AGENT  = "Virat🐐"
+USER_AGENT  = "Virat Paglu"
 GROUP_TITLE = "Sports"
 
 IST = timezone(timedelta(hours=5, minutes=30))
