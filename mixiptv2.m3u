@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 2/10/2026, 18:05:56
+# Generated: 2/10/2026, 18:09:08
 
 #EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2305/1788708712305-h",ENG-4K Bigboss 24/7 live-HINDI
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791023392~acl=%2f*~id=ed8af311b0ab6718fabf237d7a07f72f~data=hdntl~hmac=5e3b1cb34c6205dd532d23ad612f1f23ddd390febea415b5ece1186cca18a5ae"}
@@ -9532,27 +9532,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"cookie":"__hdnea__=st=1790942404~exp=1790964004~acl=/*~hmac=a64a48eeaed3f181fa10e566e17e8e5e6c7108eb0f425d8b7dc50b744e1838f4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.147817166850713" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.931375222821624" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249305_english_hls_db2324955c70527_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791026424~_GO=Generated~acl=/mumbai/4249305_english_hls_db2324955c70527_1ta-di_h264/*~Signature=ARxeIm8zvzTuL-M3merkdTPd4rxxr2wyKrHadNP-jnX82XaU5A6X4W_l6DNy6dV_pJmsjxsSI1N3TTFvVXlZKnDhZecK
 
-#EXTINF:-1 tvg-id="ev-0.6427746346959271" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.17815848243663113" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250072_english_hls_4b0e6e4f834473_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791024604~_GO=Generated~acl=/mumbai/4250072_english_hls_4b0e6e4f834473_1ta-di_h264/*~Signature=ARxeIm8WOi3g8QhSPXTQOjNYKo1rr4iOZIxKZngQhJwmYxYQyfRchQ7yoPQJDnYinL1S5R5aDX1XSEKekt40hM1snK0K
 
-#EXTINF:-1 tvg-id="ev-0.26236103720116766" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",ATP 500 - China Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.602599021350608" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",ATP 500 - China Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250120_english_hls_86c5fa3a0e6715_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791024605~_GO=Generated~acl=/mumbai/4250120_english_hls_86c5fa3a0e6715_1ta-di_h264/*~Signature=ARxeIm9pwKDHpc1ZmcLDuMmiCjr7BWp3k1H__7av2p1hL1kqfGbBD1kBxoXC1mab7T-249Hk1DpJjVIMgrwu2b__miwF
 
-#EXTINF:-1 tvg-id="ev-0.1834391782003807" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="ev-0.07786409575164699" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
 
-#EXTINF:-1 tvg-id="ev-0.0334007130312709" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="ev-0.3789324764306182" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
 
-#EXTINF:-1 tvg-id="ev-0.19162373865329774" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="ev-0.6744165031415227" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
 
-#EXTINF:-1 tvg-id="ev-0.5524986715793151" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="ev-0.29884795410065157" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
 
-#EXTINF:-1 tvg-id="ev-0.8058790922067003" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="ev-0.7985007899415499" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
 
