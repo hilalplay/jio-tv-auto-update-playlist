@@ -1,8 +1,11 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (7 channels) =====
+#===== Fancode | Sportlink (8 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 2 October 2026 at 10:35:14 am
+#DATE:- Friday, 2 October 2026 at 11:14:13 am
+
+#EXTINF:-1 tvg-id="4249819" tvg-name="Montreal Royal Tigers Vs Mississauga Masters @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249819_53099_MRT_MGM_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Montreal Royal Tigers Vs Mississauga Masters
+https://dai-fancode.pages.dev/mumbai/4249819_english_hls_ccbf8c17e34035_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250045" tvg-name="Manoharpur Lions Vs Chaibasa Challengers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Manoharpur Lions Vs Chaibasa Challengers
 https://dai-fancode.pages.dev/mumbai/4250045_english_hls_0746d60be144038_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -23,8 +26,8 @@ https://dai-fancode.pages.dev/mumbai/4248241_english_hls_8defe5728688725_1ta-di_
 https://dai-fancode.pages.dev/mumbai/4248553_english_hls_706137638e76782_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (1 channels) =====
-#EXTINF:-1 tvg-name="India In Action - Archery - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025600/1790909339737382_AG26_Archery_Recurve_Mens_Team_Semifinals_Iran_vs_India_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Archery - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790962012~acl=/*~id=38638134441483609922028028369628~hmac=d6279bc8301267c05c79c486a661f17938b24daaaa0b1865b033090a69a2fdf6
+#EXTINF:-1 tvg-name="Day 14 - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLIV | Sportlink", Day 14 - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790963828~acl=/*~id=24685883613490147579421014295856~hmac=dcc984192867c8c2c6f8faf4afdb41c62b24299b8b18b4bfdc0631ba1c63660a
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -69,143 +72,6 @@ https://a110live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#===== AXS | Sportlink (27 channels) =====
-#name: Axsports Auto Update Playlist
-#telegram: https://t.me/livesportsplay
-#owner: Md Sohanur Rahman Hady
-#special thanks to: MR. Joy Chowdhury
-#last update time: 10:44 PM 30-09-2026
-
-#EXTINF:-1 tvg-name="Eritrea vs South Africa - Africa Cup of Nations - Qualification [Server 1] @virat10" tvg-id="69971" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eritrea%20vs%20South%20Africa.jpg" group-title="AXS | Sportlink", Eritrea vs South Africa - Africa Cup of Nations - Qualification [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9fe3b95c0020a997ffc995%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Eritrea vs South Africa - Africa Cup of Nations - Qualification [Server 2] @virat10" tvg-id="69971" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eritrea%20vs%20South%20Africa.jpg" group-title="AXS | Sportlink", Eritrea vs South Africa - Africa Cup of Nations - Qualification [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9fe3b95c0020a997ffc995%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Lithuania vs Andorra - Friendlies [Server 1] @virat10" tvg-id="69972" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lithuania%20vs%20Andorra.jpg" group-title="AXS | Sportlink", Lithuania vs Andorra - Friendlies [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6ab444e46c031c11fa9a42d9%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Lithuania vs Andorra - Friendlies [Server 2] @virat10" tvg-id="69972" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lithuania%20vs%20Andorra.jpg" group-title="AXS | Sportlink", Lithuania vs Andorra - Friendlies [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6ab444e46c031c11fa9a42d9%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Riga Zelli vs Baglietto Derthona Tortona - EuroCup [Server 1] @virat10" tvg-id="72902" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga%20Zelli%20vs%20Baglietto%20Derthona%20Tortona.jpg" group-title="AXS | Sportlink", Riga Zelli vs Baglietto Derthona Tortona - EuroCup [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F68897%2F720p%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Riga Zelli vs Baglietto Derthona Tortona - EuroCup [Server 2] @virat10" tvg-id="72902" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga%20Zelli%20vs%20Baglietto%20Derthona%20Tortona.jpg" group-title="AXS | Sportlink", Riga Zelli vs Baglietto Derthona Tortona - EuroCup [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F68897%2F720p%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Bahcesehir College Istanbul vs Roma Basketball - EuroCup [Server 1] @virat10" tvg-id="72903" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahcesehir%20College%20Istanbul%20vs%20Roma%20Basketball.jpg" group-title="AXS | Sportlink", Bahcesehir College Istanbul vs Roma Basketball - EuroCup [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F68892%2F720p%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Bahcesehir College Istanbul vs Roma Basketball - EuroCup [Server 2] @virat10" tvg-id="72903" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahcesehir%20College%20Istanbul%20vs%20Roma%20Basketball.jpg" group-title="AXS | Sportlink", Bahcesehir College Istanbul vs Roma Basketball - EuroCup [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F68892%2F720p%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Lietkabelis Panevezys vs BOSNA BH Telecom Sarajevo - EuroCup [Server 1] @virat10" tvg-id="72904" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lietkabelis%20Panevezys%20vs%20BOSNA%20BH%20Telecom%20Sarajevo.jpg" group-title="AXS | Sportlink", Lietkabelis Panevezys vs BOSNA BH Telecom Sarajevo - EuroCup [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F68896%2F720p%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Lietkabelis Panevezys vs BOSNA BH Telecom Sarajevo - EuroCup [Server 2] @virat10" tvg-id="72904" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lietkabelis%20Panevezys%20vs%20BOSNA%20BH%20Telecom%20Sarajevo.jpg" group-title="AXS | Sportlink", Lietkabelis Panevezys vs BOSNA BH Telecom Sarajevo - EuroCup [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F68896%2F720p%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Roma W vs Barcelona W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66128" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Roma%20W%20vs%20Barcelona%20W.jpg" group-title="AXS | Sportlink", Roma W vs Barcelona W - UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb65-fancode%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Roma W vs Barcelona W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66128" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Roma%20W%20vs%20Barcelona%20W.jpg" group-title="AXS | Sportlink", Roma W vs Barcelona W - UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb65-fancode%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Roma W vs Barcelona W - UEFA Champions League Women [Server 3] @virat10" tvg-id="66128" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Roma%20W%20vs%20Barcelona%20W.jpg" group-title="AXS | Sportlink", Roma W vs Barcelona W - UEFA Champions League Women [Server 3]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb65%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Roma W vs Barcelona W - UEFA Champions League Women [Server 4] @virat10" tvg-id="66128" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Roma%20W%20vs%20Barcelona%20W.jpg" group-title="AXS | Sportlink", Roma W vs Barcelona W - UEFA Champions League Women [Server 4]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb65%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Häcken W vs Juventus W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66144" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/H%C3%A4cken%20W%20vs%20Juventus%20W.jpg" group-title="AXS | Sportlink", Häcken W vs Juventus W - UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb64-fancode%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Häcken W vs Juventus W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66144" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/H%C3%A4cken%20W%20vs%20Juventus%20W.jpg" group-title="AXS | Sportlink", Häcken W vs Juventus W - UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb64-fancode%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Häcken W vs Juventus W - UEFA Champions League Women [Server 3] @virat10" tvg-id="66144" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/H%C3%A4cken%20W%20vs%20Juventus%20W.jpg" group-title="AXS | Sportlink", Häcken W vs Juventus W - UEFA Champions League Women [Server 3]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb64%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Häcken W vs Juventus W - UEFA Champions League Women [Server 4] @virat10" tvg-id="66144" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/H%C3%A4cken%20W%20vs%20Juventus%20W.jpg" group-title="AXS | Sportlink", Häcken W vs Juventus W - UEFA Champions League Women [Server 4]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb64%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Paris FC W vs Arsenal W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66165" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20FC%20W%20vs%20Arsenal%20W.jpg" group-title="AXS | Sportlink", Paris FC W vs Arsenal W - UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb63-fancode%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Paris FC W vs Arsenal W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66165" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20FC%20W%20vs%20Arsenal%20W.jpg" group-title="AXS | Sportlink", Paris FC W vs Arsenal W - UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb63-fancode%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Paris FC W vs Arsenal W - UEFA Champions League Women [Server 3] @virat10" tvg-id="66165" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20FC%20W%20vs%20Arsenal%20W.jpg" group-title="AXS | Sportlink", Paris FC W vs Arsenal W - UEFA Champions League Women [Server 3]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb63%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Paris FC W vs Arsenal W - UEFA Champions League Women [Server 4] @virat10" tvg-id="66165" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20FC%20W%20vs%20Arsenal%20W.jpg" group-title="AXS | Sportlink", Paris FC W vs Arsenal W - UEFA Champions League Women [Server 4]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6aaa2965f23cddb5aff4bb63%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Konyaspor vs Palestine - Friendlies [Server 1] @virat10" tvg-id="88490" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Konyaspor%20vs%20Palestine.jpg" group-title="AXS | Sportlink", Konyaspor vs Palestine - Friendlies [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6abcba88bce67a6a434ba13a%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Konyaspor vs Palestine - Friendlies [Server 2] @virat10" tvg-id="88490" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Konyaspor%20vs%20Palestine.jpg" group-title="AXS | Sportlink", Konyaspor vs Palestine - Friendlies [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6abcba88bce67a6a434ba13a%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Luxembourg U19 vs North Macedonia U19 - Friendlies [Server 1] @virat10" tvg-id="88491" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Luxembourg%20U19%20vs%20North%20Macedonia%20U19.jpg" group-title="AXS | Sportlink", Luxembourg U19 vs North Macedonia U19 - Friendlies [Server 1]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
-
-#EXTINF:-1 tvg-name="Luxembourg U19 vs North Macedonia U19 - Friendlies [Server 2] @virat10" tvg-id="88491" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Luxembourg%20U19%20vs%20North%20Macedonia%20U19.jpg" group-title="AXS | Sportlink", Luxembourg U19 vs North Macedonia U19 - Friendlies [Server 2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
