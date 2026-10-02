@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 2/10/2026, 11:33:20
+# Generated: 2/10/2026, 11:41:46
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -314,7 +314,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790917431~exp=1790921031~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=7327f85e3dee02f0f986f54416a9c3f1e112dc14af3bda4ce03d25bcf15b5b9d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790920920~exp=1790924520~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=fe57487497b1ef6fe6e940ca8cc7993e1cd220bf0570076e666661c89ca2f899","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1358" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png",Zee Talkies HD
@@ -370,7 +370,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790917432~exp=1790921032~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=147180758be1f060f700df38f8aa19eb6141e4d1b693d5684acfd83c65472ce4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790920920~exp=1790924520~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=19b4afdf79d29dbec86df4f8e2896a661f8fcb7a47704dbe799d3e8b739cdb20","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="166" group-title="JioTV+ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNTelugu.png",Cartoon Network Telugu
@@ -391,7 +391,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790917468~exp=1790921068~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=d8d2e98307a15274560ad8d1067f699dc03f17a6562720d0958268aa39e4dd05","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790920952~exp=1790924552~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=935251bbdbb52fc1d557a0a7766e14bac1f68ab5f9e48650c971bc23c7c7142b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="173" group-title="JioTV+ | News" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -769,7 +769,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790917432~exp=1790921032~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=318d3e2a99df09e35865a9739e66bc3193a4aa15ec858ffb8d84308e9e099e0b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790920920~exp=1790924520~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=166d38ad5c2c991d856d1f101c60c2dbca44266dd54656fd7073ae60c4c4e888","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="415" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",Zee Anmol Cinema
@@ -853,7 +853,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95c378d17d3d5bbabf9ec086820ece00:dbbce65eaf9673918703d3bcb3131b42
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790917432~exp=1790921032~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=e89e7a779f95254496f466afa27c35b4c605c72fbe890302597945208b4a08c9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790920920~exp=1790924520~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=fb282ad239f47df9ffe8665b393505ac018db293def27f82b80099808f44159c","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathiHD.png",Zee Marathi HD
@@ -9502,27 +9502,24 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"cookie":"__hdnea__=st=1790920811~exp=1790942411~acl=/*~hmac=009a50c1fcd5a6ca51d155d99383862d61d75ef18ad3246ae413b2c10068ece3","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.1269599299914157" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249819_53099_MRT_MGM_FC-Web.png",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.9745979325003358" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249819_53099_MRT_MGM_FC-Web.png",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249819_english_hls_ccbf8c17e34035_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791005805~_GO=Generated~acl=/mumbai/4249819_english_hls_ccbf8c17e34035_1ta-di_h264/*~Signature=ARxeIm9aJWXmS9DMBP6VGvJFc271JR_CTcub1Ej5mcLMPrynoEKPDkjpL_k7nIdCj7ZlAfuTklXD39Ogu4zm0N98QlwN
 
-#EXTINF:-1 tvg-id="ev-0.0867862995567239" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",West Singhbhum T20 League 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.7453359164948911" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",West Singhbhum T20 League 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250045_english_hls_0746d60be144038_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790997330~_GO=Generated~acl=/mumbai/4250045_english_hls_0746d60be144038_1ta-di_h264/*~Signature=ARxeIm-L3UP6D8SdBqHS2sJekaPVsWUoPY-wSgO6PSjRg5R4Pu7EjsKnxDpi3quMszWPp-GmhSbWmJf43rcfGb1qSPEM
 
-#EXTINF:-1 tvg-id="ev-0.813214932533595" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",MOTUL GRAND PRIX OF JAPAN 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.7650212559814743" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",MOTUL GRAND PRIX OF JAPAN 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/139972_english_hls_639be161541626_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1790985202~_GO=Generated~acl=/mumbai/139972_english_hls_639be161541626_1ta-di_h264/*~Signature=ARxeIm-6IkUe6qxCtxa9hx2sMkoGs5NhRO2RVgqLScwpXFZBUr5EKmTzUytQb6l-ZLyv6RJKD1RhGUOg_ZYs1w0bLcIE
 
-#EXTINF:-1 tvg-id="ev-0.9807132529648502" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",ATP 500 - Kinoshita Group Japan Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.8436663041161471" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",ATP 500 - Kinoshita Group Japan Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248574_english_hls_016dc4793325823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790992475~_GO=Generated~acl=/mumbai/4248574_english_hls_016dc4793325823_1ta-di_h264/*~Signature=ARxeIm-1x_HnGycZexp2-UhP5sei2n5tmzEEYTXG6pal8SDsKfTTiMJbkaNJ9gFivtc8RyMF0kj-EMWrMBTETyyuU0gP
 
-#EXTINF:-1 tvg-id="ev-0.9412383583550732" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",ATP 500 - Kinoshita Group Japan Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.3380687589763147" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",ATP 500 - Kinoshita Group Japan Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248567_english_hls_da7426f7b533324_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790997936~_GO=Generated~acl=/mumbai/4248567_english_hls_da7426f7b533324_1ta-di_h264/*~Signature=ARxeIm9c-rwMvJskz8jVspnvrlJMxBXsWqCSKvghgHUyRMqy1SYTsV9TuCO3i6Wdo5kJJIrO2AHA-SQ67wkI1Ikmpx0P
 
-#EXTINF:-1 tvg-id="ev-0.9365909242591262" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248241_english_hls_8defe5728688725_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791000962~_GO=Generated~acl=/mumbai/4248241_english_hls_8defe5728688725_1ta-di_h264/*~Signature=ARxeIm-ptTRs8R5bHnQs9a3yBKSFrzs2NbSTXQMyulpo173y1BpCKqUrj9CtJXA_HiOde0cWGZM36pk_MBtF0DnDwi8N
-
-#EXTINF:-1 tvg-id="ev-0.37399092836154446" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",ATP 500 - China Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.28549786162590596" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",ATP 500 - China Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248553_english_hls_706137638e76782_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791002780~_GO=Generated~acl=/mumbai/4248553_english_hls_706137638e76782_1ta-di_h264/*~Signature=ARxeIm8J-AWuJ-qavupFnqJlhyLYKwS0Gi1sEdhvt0IMvS688-6eRVK9M-tAli87VoHCLWhFdCRmiRDYGY09qDG1l_IA
 
-#EXTINF:-1 tvg-id="ev-0.5674940582710836" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",Day 14 - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790963828~acl=/*~id=24685883613490147579421014295856~hmac=dcc984192867c8c2c6f8faf4afdb41c62b24299b8b18b4bfdc0631ba1c63660a
+#EXTINF:-1 tvg-id="ev-0.27480978708719517" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",Day 14 - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790964433~acl=/*~id=18615838432456522539034821161148~hmac=5d6f7b578591d9cf033daf4ff58dbafff5544eb2a2275b215b38877442568bf3
 
