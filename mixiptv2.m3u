@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 2/10/2026, 18:09:08
+# Generated: 2/10/2026, 18:17:24
 
 #EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2305/1788708712305-h",ENG-4K Bigboss 24/7 live-HINDI
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791023392~acl=%2f*~id=ed8af311b0ab6718fabf237d7a07f72f~data=hdntl~hmac=5e3b1cb34c6205dd532d23ad612f1f23ddd390febea415b5ece1186cca18a5ae"}
@@ -288,14 +288,14 @@ https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=7683879c2b816b6a01e1bb1fb307a851fb5625ec1ea6db3e33f9daee89b6a7e8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=23c3eba79f5d0945c23896fe67498b1f7d5d10aec21822c8f8b0ad84376ac941","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1116" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus.png",Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Plus_BTS/WDVLive/*~hmac=ccf0fa592c472f783e0bf74820da8db7ff642217c69e9b6494ba1a835ddc750e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Plus_BTS/WDVLive/*~hmac=d0223f049125485e048eccaf637b24fc9690416d6d0b106bcc428fc5818496dd","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="931" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
@@ -309,7 +309,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=687cfa6d31645a91ba3c38a9acdfac7c:c035ca584ac0a2170b96e2fa4523f3be
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=9d7b901285a936aa42d08ff15cabca28c8f0122eec9c8054b831b5ccc6ada9b4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=93e73b651fce5135245c35bfdc87e2b36279bdd18af250ec2750d4f87adc168b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="144" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png",Colors HD
@@ -344,42 +344,42 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=08f1168004aebc4e2692302122e28fe1efc83de47b2527801d38cc42e582b102","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=3c90c5946bb003b595b37eb20833467766a6c6fff6e36aea14767ad65405261c","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1358" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=3c73906d669baf6c52287fcad5bc0437198715bce40a54494ecd8392833ac7ad","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=73e684175255cff2502085ac0069e933d66261f3ce5bfb4cb76f80375011b323","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="156" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944517~exp=1790966117~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=fd2118b5d916d555fa702e08a8ce91bb84f138a118ea9764f07c77e86e4b7348","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=b36b97b38a00d04fab40d48eabcb591f3a82d434ef78dba109273def4c546988","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1125" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png",Star Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=940a0a4080f553cab03ec23a2e80cf7c:b162354170b54cb588182eb75681cac0
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=29936e3cfc283c644c09fb52f6bdbcd651312bbb83bbb3ff7fa7fe9305a45271","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=51591f2a87bd557610f38b0352d4857a3188509d814128ae49c4dfb726885497","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3096" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=bf4c0111d7bd8cdb3300ae0c664d431ae9018fe81a1ada3506228fed02c9246c","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=99d986acd4c9b380f0abe48af3b5b619657296a26dc2e2e73a1ce7f46d754d6d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1154" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png",Star Gold 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2db0cd9cb0685309b48e322c83192bda:e13bf7a33eb2e19a8f19568dd383ba6d
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=f09be478c595d29ca3ffd063c84118df1ae8c589a7e96dbd94467fdaefa2f13f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=1f0189fa949baa38a8592e1448f53a2e0f913e4ce4ac467682db820f975782a0","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="164" group-title="JioTV+ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp HD
@@ -400,7 +400,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=5084d49bf42629163f017be4ca4a84a179e8099b0010b1747481f8aca3ac0279","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=6859307b0769ddc5bdeba967dffcf7993162c0809d073bd1f4d8d3c096a17f4d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="166" group-title="JioTV+ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNTelugu.png",Cartoon Network Telugu
@@ -421,7 +421,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=36662bb3a1b22a73a6e386dac4ea6b8e4dd0f2b1657d52c74b2594e75f8d5b0b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=eef5ae1f49e4e0ba5cae3c5e0bb8519a6241bbb6cc7625cb1be82b641148776d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="173" group-title="JioTV+ | News" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -638,28 +638,28 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac5fe0f7b01659a9aba3475523f71ae1:b2e3f3af283a309e24eabe6b8681282e
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Pravah_HD_BTS/WDVLive/*~hmac=b1ed248992a6c6f044cbc705b2c1e64e0ce3a2e42666aef7a22164d3cf92f2b8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Pravah_HD_BTS/WDVLive/*~hmac=6149a5c229322cb4a70e440d1734832a18dc0a3919e8c17bdf15a066e0575fa2","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1121" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Pravah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb941b7c6fe54fb8f66b19804eff952:c1b742ed7b6d4eca1c6bdcb9041d9b80
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=f746c7a27a8619e6f5aa914d5b0253eecd5216b00c1d8d6dc4d59d8d17a67efb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=57439444cbcc32468d746c4e1434b9993c198aedb9f0554da366b849309cafd3","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3099" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png",Star Pravah Picture
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1644aff68865ecdb884c36a634c008f:794529e9d938c592514a1eb9eb706da9
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/*~hmac=3271ab84c5ee7ce230b687ecf5368e9f943f33e1491690fd781faa5d4a58f421","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/*~hmac=1cf7b32ed8ff4dac095f8f945e45e6029c1b85b06d8adbaf56d21b6287b93a12","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3100" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",Star Pravah Picture HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71f9041eea4954e6acf66f0c50d5ebf9:98148dde17f872774f443297745df456
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=db3265d40eef8f5377ed5e3c4143f25e1a8d03b18c2a36f8eb662dbe87e47f09","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=526308f43af91dc5bc611e0d76f952289ee8eb8bbc28137b7e0b570fcc57b180","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="368" group-title="JioTV+ | Tamil" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",Star Vijay HD
@@ -673,7 +673,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5f2861efbc7552ba802dcae4e160359:4ea32867828280a4d6f36ea8fbbe38eb
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=df496b86818b74192979e0d772b7b8e3acb82467a4cfc6305db0c63297fdc939","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=578e73f837a633a9a464315f3ddb48afce00e312ed05ba57244efb60676e61f5","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="370" group-title="JioTV+ | Kannada" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png",Star Suvarna HD
@@ -687,7 +687,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc71d871cbf45818a5b3eb3652d75387:added6a0df4d0eab8758b0ed9f54ecf2
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Suvarna_BTS/WDVLive/*~hmac=7ba99256d366de1c5de383975d3870b9a93d473dc5a3f7984c01aa3250565b4f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Suvarna_BTS/WDVLive/*~hmac=a605cd7131d8f675f6ba745757959ae267821dd324193aeb8fa1a2fd24718929","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="383" group-title="JioTV+ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png",Times NOW
@@ -792,14 +792,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Wion_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f17e6167dfe5a87a6163cfadede52bc:09e030ff1daf74b4967dc08a392e337f
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=1ab1824a0b7c722879b82e5081d5d1a9b52e7057bdb6150da189bf9282c5374f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=5238c995c4bf565fecc96e233b74ae436effdde0d61fa60e575bb69252610b32","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="414" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeYuva.png",Zee Yuva
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944514~exp=1790966114~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=c5902f898c9fd16044de27d56379cfaa1435d2bda899b4969497c50616211ea9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=f4e96419b4054b097c59981ba8a8bd2c2b4685c02421757397e679bb5b1f4f2f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="415" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",Zee Anmol Cinema
@@ -876,21 +876,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Asianet_BTS/WDVLive/*~hmac=0928f856a7b5ab8623edbd7724f162bc5fe9cd6b3d52ee55a9684fbf18b233da","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Asianet_BTS/WDVLive/*~hmac=a8852f58036bb3a48c60729751182e5b87ffdda1e857279110a84d9cde7f8688","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="445" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathi.png",Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95c378d17d3d5bbabf9ec086820ece00:dbbce65eaf9673918703d3bcb3131b42
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=73909c565e1166afd76894ffc3392f012fadeb285372401c6af0fbc755de4bdc","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=1235b73eca34155aa4b04ebab8f8d7751f499c8ee8179dd982bef357a3cd6da1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathiHD.png",Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=b6b8acabaef3ed8222485d5053e9b877d63a6407ae10d549fc0c5164b4923286","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=4763ba987065b4b225afd75b915f052e1c4da2a4f13aa0282c3acbca84caec64","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1326" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",Colors Marathi
@@ -939,7 +939,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Asianet_Movies_BTS/WDVLive/*~hmac=c3df9c3965e594be2bf9a924a3bc2019a2aa1b5bdf99795de34bfbcccd4b0b2b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Asianet_Movies_BTS/WDVLive/*~hmac=4bf70f55404631907f09149286d85d5491d02ac0846ca3c9967f78eee45e10ac","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="463" group-title="JioTV+ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDEng.png",Discovery HD English
@@ -1051,14 +1051,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5895b358bf9f57a0addbec524e473919:8fddf9c4394cb4984bafa3aaffb7dcca
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=42e286507eda4ceb358fd4059293a5eeeef04323879570b573cc4ab40006eeea","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=dbe390c69a8034f02c23f6ba208c9a001dc764a634335d09f18226862a4f4a79","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBollywood_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="488" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a881e2bda4785fecbd13e50e6e3ba530:3e27c8b04a620f1094bcbfdf0472c744
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=2983bc56471042595533c0e6664ef5335991598852073ab3e1b8482cc6940bd3","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=5249a0a49b34e01bb58ca31d7688bacbee88f752573859d3e80d662e03da4821","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAction_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="489" group-title="JioTV+ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png",CNBC TV18
@@ -1800,7 +1800,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News18AssamNE_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b5583d76a465054a7d444b307a9ff21:3f8d9e2207221a0cbcaf120754e4b2e4
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=44847ce9bae09bd8a2482c63fb5f968343b6aa231e3d6dcb64a96ef2445a7b40","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=1356a973879cc698d537010a77fc02542f5007ef292a30183076f387231d3f19","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="631" group-title="JioTV+ | Odia" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MBC.png",MBC
@@ -3718,21 +3718,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Maa_BTS/WDVLive/*~hmac=88ddc9dbd407be70fb76c4cd6a3b1b573fa532deabcd3ffa4277f0e41d4435d2","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Maa_BTS/WDVLive/*~hmac=a2ac176e1a6a5b6f02f7e860e5bc74ed205f49021586158449fc2849b9b7b568","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1119" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png",Star Gold Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=2f2513b9488e1bebdf27726852cfa6238a94b336913e9dead43372a95d57ceab","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=85cd1ce0bce5c394047cc6214c9f702f0c8487b1a6b10ad8f5252dfb9926b13b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1113" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=b5fe2a6e8fd247cb586cdc90193d6f24ceab37079a5a0ae127fbe9b530cd43db","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=0eea814c8e55afca04a759442c0e55f3360a375b6e7509c348ccc44601d84602","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3543" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blywcm.png",Eros Universe Bollywood Cinema
@@ -3753,7 +3753,7 @@ https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=0a386a2689c9132548b2cdb73ab5b550b3c9e8279a8128a1364446a3973ac154","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=6c27dab71b9e58c9446c2e2841a261c075f91c7794de0aef5743f261104411c7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1120" group-title="JioTV+ | Bengali" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsha_Movies.png",Jalsha Movies
@@ -3795,7 +3795,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59060fae4daf542b9b0dd6a361b62b95:4f4c689aaeb72b0f31e531215a139726
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Maa_Gold_BTS/WDVLive/*~hmac=8d75e6d0f6172c793c7b1ca6648e41b5b06bb43ebbf52c80a2bae95e2ce4afba","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Maa_Gold_BTS/WDVLive/*~hmac=5ccdc365512e8a8836d6744c5afda6a89ed84352404aa47a918a26811ea1ff98","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1139" group-title="JioTV+ | Malayalam" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",Asianet Plus
@@ -4285,14 +4285,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944520~exp=1790966120~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=383172135d63d8e438044b283ae0e5cd21ce60a7369ac27a741de7610acb4105","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=ff5300fd9bbdc701f9ae77c3dc6de7a9b530f2354249f50122c1d3b7f39a7736","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1356" group-title="JioTV+ | Tamil" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTamilHD.png",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ab3810fc9505eaf9121202a5acf3656:eab9ac2b629171ed27c105ea62ea4fda
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=461cadcf78d511261328701b31595596478332155dbe12b813724cfa563e1245","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=6864699f4824dfd0709ab2aaa06f7a2b2a227c33e0551dce1305a3e0568722cc","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BigMagic.png",Big Magic
@@ -4306,14 +4306,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/BigMagic_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02f4cfad19cf547da40f77c29bd303b2:a3ba2f7a824f232d7162f7452fe97a60
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=61312824c383bd83836e131735aba3eed7830a776dde692bc6c19770ef47b4b4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=845ed008c70ec339f9ee22c69afe6ce28416fe42520bdaa09e4b9a7463db5f2b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannadaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1363" group-title="JioTV+ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=d5aa4f746108cbebde190c8d3d6822ecd7755eef0b229f080f8b4253081cb4d2","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=4e2f515a33bf1eaf73a2f0e7e389759e1d2151077097381d870b41a8636ae82b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1369" group-title="JioTV+ | Bengali" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",Colors Bangla
@@ -4929,7 +4929,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News_State_MPCG_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca03fd99cf33533caecf065085c4dd69:2f6eeefb9d65dffabde6d7c1e15966a7
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944520~exp=1790966120~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=2f0636d264b8cb69632918978be0359ce901d83813c45ac5fd51a1f06298d216","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=c43ccd5277ded9e9dc79f166758f414af0edc2bf9b796b541c8e056ad09b5176","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1643" group-title="JioTV+ | Malayalam" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Harvest_TV_24x7.png",Harvest TV 24x7
@@ -5013,7 +5013,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/C_News_Bharat_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4ca77c81bc556d994f7ecbee3bcbd20:dade64f6771f47a113f6cfdf67606cd0
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=111e2a5725a3313d2dbdd17aebfdeeaedac0453335c258c68ac047ae14ef8e09","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=f104b1aa485bc511fa0e6436586cfa02fb880805e15946babb7c41c513743790","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="8001" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg",Goldmines Bollywood
@@ -5139,14 +5139,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hornbill_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71b2f1f7ceed5d4ab62273dbdc16e3ac:2d42ff5481ea336970c75f938b2e1473
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=e096aeac3626636ff1d086d0d5f5a924aff64c0ad8fd5840ad9a617701e73c86","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=5b8647cde39eb4ba425e6840a32d3cc5971020371496e921638c8dc45dad9d0e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBiskope_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1746" group-title="JioTV+ | kannada" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeePowerHD.png",Zee Power HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4324ba5158d3536fa799f5a21a321bf5:688474553bec43448f55ec88c34c9bb1
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944514~exp=1790966114~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=9ecd61e3ff0290344c8e97fae61dead5ae76ca07555a13a91116da1bde1ca164","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=ebe6fd4fd8a9d7c633f6e328ff7cf26a0be6f4a0168f0ad87112ddb1d55b2914","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1747" group-title="JioTV+ | Gujarati" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png",India News Gujarat
@@ -5160,7 +5160,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/India_News_Gujarat_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97f38fde4a1e5784aac3ca8ce3668304:f3ac52006e0cf7e2c317eceebf5f781c
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944513~exp=1790966113~acl=/bpk-tv/ZeePunjabi_BTS/WDVLive/*~hmac=45595d8b3ad94319281614856acff266e85f96b026a2f375e1b12cab4d78b1c8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945116~exp=1790966716~acl=/bpk-tv/ZeePunjabi_BTS/WDVLive/*~hmac=9ef6db5974638d0b309f7b46ddc874554d1892920ba3cde77079bece984f2776","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePunjabi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1754" group-title="JioTV+ | Malayalam" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",Sun Surya Movies
@@ -5517,7 +5517,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7966a083736c5ff6b449767da10897bc:a11dff4dfcc5ebaff4640b8a5b2bd71e
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944520~exp=1790966120~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=96d80e97f4f4cfda98270af18f2859c2476ee17f91dc76f6a179c781f3a018e8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=b34866049bd851db2ffcafccfdb678db647bdda6143c893617072829b3785d05","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1001" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png",Unite8 Sports 1 HD
@@ -5594,168 +5594,168 @@ https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/enc/xperu6ixu9/out/v1/31d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=122d9ec4da9525504bf295bc566eb1c2fdd0830af72ffe4155c6eb432eb79699","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=9db9baf88eea3df4b1ceeb12b687c7cd901701099a7c0e959d7e6ace9780d808","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1123" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg",Star Sports Select 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=eb8ea4bbad0f8c77e92390c94f5c6576f13e4861506a8dc97f69803d6b7123e6","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=ab9109e93983d9b959d7f40c39ffc401a13449b521b7d37bfaae2fb7aae0473b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="461" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=6d89046b6f521c045c6e54ad4cb7a407d1c2666d9fbd97d05c9c3fa9fca85330","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=88b058de149f45422dde6c23f509a065ee890338cea1d12e76570ebe89d0a875","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1114" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg",Star Sports Select 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=eebe8cfd011cf8acc41711325237e294c4d3c7a5d344f4cd847c89ae57ffb5d7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=ea17bc68bf0f81bedcb2516473e2683e8239339baea29c877df3cc1cc50f2918","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1106" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=8560ac01a691160e21ade43813e1c54ddaa9b99f518559a4f95ff282344f1634","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=42a2f3dc6cebcccaa980283adc0490eecb720ad2ba5731b1d7279067fc69506a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1142" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=ef9dc25d7c40b610fa6f468c54bb4098e977e3322bea53f6404b02d9865ada31","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=883fbdbd7a2608b6a7cdeb187524eeadc9fe41e2138fe849a17979b9607b138f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1108" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",Star Sports 1 HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=641bf1fea1fdd8cf349b31e64848159dad24b115e87ab98db75b606b9daf5365","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=679a7a9db2abc63c13fd45249d5928217570f87d20201d3f7a73343180ede7af","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="362" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=e0e8771799eb4fb4476abb9d2fadd9c50b13827bf0ef92be4d500952ac5e7bd1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=0e457cd5188e1052dc0e971682df0b8a289d7934b43991d175fbe821c04ca964","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1109" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=a70871341cd985fe3d944ce824180b6137c15b0ba797e52a4192bec3d1ab2535","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=458715dcbd97a64379dd4270f6662a5c5bca245d8fb7562d10eee63a4828c925","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1141" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg",Star Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=f0fdbc73c7129ca1c018f8fc846f709774e08af4f48093259f1ac52274e3faf1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=4b57c9bdd0c96ef1a322fde879d4cbd5f793289d9b98452d4002c04a777f7048","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1984" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944514~exp=1790966114~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=e77bb7680068b604f720d6d2c7d99e8c14d6ef9881f3027927d59840b647b8b3","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945117~exp=1790966717~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=a9c84373ce02f88f81d9d55e12846630616cb384898a3424bd96c2e12265542a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1985" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=46d732bb5963312e15f4fca54df475d166af7db4f6b40154f1fc347c17ca3cfd","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=239444856714b25971f3f923221b35fe29d01f243063a98039325f0713f8d6dc","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1389" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=33ed7e5960ad02f97dd3e40a50ab67452b98285d3c4a89c221416ba156685c91","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=da38a7c276a0a854436173309af4015712968841996278198724b7c3c4d784a7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3277" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=25f81a6bbc1bc4e1e5c3f5a58d3e9eefd6fc1bfd1ce019a5d9ceead391ec142f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=6f0c74b246dabedcdbc6d3e88aefa639ed12e488f39dad5be472646b35edd06c","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1124" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg",Star Sports 1 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=e47517524fc150a8ad81ee098ffbae5e18c51b6e4f61af8804b22008b42b39dc","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=1499f27f4d93c67e697cdf54725db6d2b60fc313538ea708bef8a8a7eda44cc3","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3278" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=bf6cf8da5955e5d4474d85a7d62596966fb3347138d5df2885d1e4cceb6a3ef0","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=275824002a5c77b208d8906389f86d73e70af160de0448e1f536d1ade36c0244","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1651" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg",Star Sports 1 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=4417e1d11c4ce6da96929e37432dc94a1f638ba5d949e954fda076cff81060ec","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=c93af847eefa62f383799adca6a6add7b2b3cef3994291e8472a5151b48e5748","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1650" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",Star Sports 1 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=3716cc0e2d1667699eae06318b9b598f23f0c0ebebe782e47f5a8bc1c740caff","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=772d781ebcbb083c38bbaf39095fffb495932fed3c742c1cfe9559f05b48b46c","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1122" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg",Star Sports 2 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=c7ffb4b6e22aec14eb18574a6c995f0b0050ae4cffd8a1d59dfb29d8b61615e9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945119~exp=1790966719~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=6d930ff7dce19d185abe9ffb8278458ba84d8364d2b9d63a175470a3e4661ab4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3273" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg",Star Sports 2 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=af0ceaff79aa0e83024634329e69eb60fb2ec49b36c29eb3a6faf8634ea773ad","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=204b90fa06fa9a436609ae3d70f17b7a0d5002316ed86fa2a9e839e3b9bd0228","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2853" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg",Star Sports 2 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c1b335c4bb858a7a6ac5a883d898a09:6eeff4302a7d19befd43c6b7b5fac268
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=f63028ddc4888eaeb6caee6147c0c3b85d2073e985602f31115184769521907f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=e6292229b3f45c04fbeea7cb37494f5323a46bf091409d35c11ed1ff5c6a08c7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3274" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944518~exp=1790966118~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=8e60dec247fe243d195afeb6cf728b67c718fb5b79a0714437cca2fdb758ca39","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=1af3774306419400789ee15d12e5d6ceac0a0da0143cfb44a3b4f06b2b00c08f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2852" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg",Star Sports 2 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944519~exp=1790966119~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=43e75053ac3caff754780eb0267f3ce8ddc15217c33caad967921840b49fd66a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945120~exp=1790966720~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=3bf8ffe20652701fea340c278262fbea77ca150577bf9cb98d23c8941ab84205","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1998" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944514~exp=1790966114~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=b05d261cce982d7ee5cdcac34a0f05e846abecddda80a91be7488ea56491f5c2","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945117~exp=1790966717~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=0ce967cd9010907355da88df58b1b127be759973745cea2c24e6dcd4a6874f09","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1999" group-title="JioTV+ | News" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raftaar_Media.png",Raftaar Media
@@ -6182,7 +6182,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SikhRatnavali/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944516~exp=1790966116~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=a640103189cfd450b4879ab3c8dcbb4aac2aec3bbcfffde080583d7bdf66e34b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945117~exp=1790966717~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=1b14275ad4e886e8271129bbbb7456e0a3b4c855ee4d3ee6ba86fd2412a05718","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2759" group-title="JioTV+ | Assamese" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_North_East.png",DD North East
@@ -6707,7 +6707,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Indian_News_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1790944520~exp=1790966120~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=51e3faff76711e609c4161fa4adfc8cf2acb2cf01617e77847573a928b7bb0e0","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1790945121~exp=1790966721~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=a393e6d19f906d6e562d2507029809ba9d11299e858129c527dc47daf8b116a4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3053" group-title="JioTV+ | News" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tnpnews.png",TNP News
@@ -9532,27 +9532,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"cookie":"__hdnea__=st=1790942404~exp=1790964004~acl=/*~hmac=a64a48eeaed3f181fa10e566e17e8e5e6c7108eb0f425d8b7dc50b744e1838f4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.931375222821624" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.34816786527829635" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249305_english_hls_db2324955c70527_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791026424~_GO=Generated~acl=/mumbai/4249305_english_hls_db2324955c70527_1ta-di_h264/*~Signature=ARxeIm8zvzTuL-M3merkdTPd4rxxr2wyKrHadNP-jnX82XaU5A6X4W_l6DNy6dV_pJmsjxsSI1N3TTFvVXlZKnDhZecK
 
-#EXTINF:-1 tvg-id="ev-0.17815848243663113" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.9330086447865437" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250072_english_hls_4b0e6e4f834473_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791024604~_GO=Generated~acl=/mumbai/4250072_english_hls_4b0e6e4f834473_1ta-di_h264/*~Signature=ARxeIm8WOi3g8QhSPXTQOjNYKo1rr4iOZIxKZngQhJwmYxYQyfRchQ7yoPQJDnYinL1S5R5aDX1XSEKekt40hM1snK0K
 
-#EXTINF:-1 tvg-id="ev-0.602599021350608" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",ATP 500 - China Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.8248528247026837" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Djoko.png",ATP 500 - China Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250120_english_hls_86c5fa3a0e6715_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791024605~_GO=Generated~acl=/mumbai/4250120_english_hls_86c5fa3a0e6715_1ta-di_h264/*~Signature=ARxeIm9pwKDHpc1ZmcLDuMmiCjr7BWp3k1H__7av2p1hL1kqfGbBD1kBxoXC1mab7T-249Hk1DpJjVIMgrwu2b__miwF
 
-#EXTINF:-1 tvg-id="ev-0.07786409575164699" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
+#EXTINF:-1 tvg-id="ev-0.23612923217983162" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790988085~acl=/*~id=55917693619157410675712378728582~hmac=44ecb1081a9f3fc1e990ba742e6bc1e4712864626fc8e9f33f1f8be780ef13b0
 
-#EXTINF:-1 tvg-id="ev-0.3789324764306182" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
+#EXTINF:-1 tvg-id="ev-0.4388526869045343" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790988085~acl=/*~id=55917693619157410675712378728582~hmac=44ecb1081a9f3fc1e990ba742e6bc1e4712864626fc8e9f33f1f8be780ef13b0
 
-#EXTINF:-1 tvg-id="ev-0.6744165031415227" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
+#EXTINF:-1 tvg-id="ev-0.7616234909905198" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790988085~acl=/*~id=55917693619157410675712378728582~hmac=44ecb1081a9f3fc1e990ba742e6bc1e4712864626fc8e9f33f1f8be780ef13b0
 
-#EXTINF:-1 tvg-id="ev-0.29884795410065157" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
+#EXTINF:-1 tvg-id="ev-0.6392072611604257" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790988085~acl=/*~id=55917693619157410675712378728582~hmac=44ecb1081a9f3fc1e990ba742e6bc1e4712864626fc8e9f33f1f8be780ef13b0
 
-#EXTINF:-1 tvg-id="ev-0.7985007899415499" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790987479~acl=/*~id=42777099006312147672152254074940~hmac=7cca5b28eb52abb74fc0d973049ceb1e7ef0ddb06d90d8a8f37ea4e48723edf5
+#EXTINF:-1 tvg-id="ev-0.9349920638877669" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",India in Action - Hockey - 2 Oct 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790988085~acl=/*~id=55917693619157410675712378728582~hmac=44ecb1081a9f3fc1e990ba742e6bc1e4712864626fc8e9f33f1f8be780ef13b0
 
